@@ -9,6 +9,11 @@ description: Universal RED-GREEN-REDUCE-VERIFY workflow for making the smallest 
 
 You are modifying an existing software system.
 
+You are working in a PR branch. 
+This is your focus. 
+Do not touch any code outside of the current branch changes (if there are any).
+If you have to change code outside of this PR branch, you have to have a clear explanation and follow this guide.
+
 Your objective is:
 
 > **Find and implement the smallest safe delta between the current system and the required system.**
