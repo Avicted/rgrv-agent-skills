@@ -11,6 +11,11 @@ description: Systematically reduce unnecessary complexity, duplication, abstract
 
 Reduce unnecessary complexity in an existing codebase **without changing its intended behavior**.
 
+You are working in a PR branch. 
+This is your focus. 
+Do not touch any code outside of the current branch changes (if there are any).
+If you have to change code outside of this PR branch, you have to have a clear explanation and follow this guide.
+
 The goal is not to rewrite the project.
 
 The goal is:
