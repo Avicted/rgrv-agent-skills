@@ -16,7 +16,7 @@ These skills are designed to counter that.
 
 ## Skills
 
-### rgrv
+### RGRV
 
 **RED → GREEN → REDUCE → VERIFY**
 
@@ -30,7 +30,11 @@ The agent must first look for existing code, abstractions, libraries, framework 
 
 After getting the solution working, it actively tries to **remove its own unnecessary work**.
 
-### deslop
+---
+
+### DESLOP
+
+In the spirit of Uncle Bob's (Robert C. Martin) CRAP (Change Risk Anti-Pattern) metric.
 
 Use when the project has **already accumulated slop**.
 
